@@ -1,0 +1,5 @@
+{
+  "name": "Enhance AI",
+  "description": "An AI-powered application to enhance photos and videos. Upload your media, provide a prompt for videos, and let Gemini improve your visuals. Features side-by-side comparisons for photos and uses advanced video generation for enhancements.",
+  "requestFramePermissions": []
+}
